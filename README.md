@@ -28,7 +28,7 @@ Una aplicación web simple que permite agregar nombres a una lista y realizar un
 
 - HTML
 - CSS
-- JavaScript (vanilla)
+- JS
 
 ## Autor
 
@@ -39,11 +39,8 @@ Desarrollado para el desafío **Alura G9**
 
 - La aplicación no permite ingresar nombres vacíos.
 - El sorteo no se ejecutará si no hay nombres en la lista.
+- El sorteo no se ejecutará si solo hay un nombre en la lista.
 - Ideal para usar en juegos de amigo secreto, rifas, sorteos casuales, etc.
-
-## Vista previa
-
-(Agrega aquí una imagen o GIF si deseas mostrar cómo se ve la app)
 
 ---
 
